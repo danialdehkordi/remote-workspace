@@ -1,1 +1,1 @@
-Demo repository -- creating base images for IDEs.
+Demo repository - creating base images for IDEs.
