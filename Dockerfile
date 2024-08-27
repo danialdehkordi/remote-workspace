@@ -1,7 +1,7 @@
 FROM nginx:latest
 
 # Install prerequisite CLI tools
-RUN apt-get update && apt-get install man wget tar jq xz-utils apt-transport-https gpg curl
+RUN apt-get update && apt-get install man wget tar jq xz-utils apt-transport-https gpg curl -y
     
 
 # Download latest VS code server
